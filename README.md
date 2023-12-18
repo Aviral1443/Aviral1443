@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aviral1443
 - 👀 I’m interested in ... Sports and Movies
-- 🌱 I’m currently learning ... HTML and the frontend
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Full Stack Web Development alongside DSA
 - 📫 How to reach me ... Email: alkaaviral14@gmail.com
 
 <!---
