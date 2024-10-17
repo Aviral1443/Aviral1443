@@ -17,3 +17,5 @@ I'm passionate about **Sports** and **Movies**. Currently, I'm diving deep into 
 ---
 
 "Curiosity is the compass that leads us to our passion."
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
