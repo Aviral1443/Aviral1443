@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @Aviral1443
-- 👀 I’m interested in ... Sports and Movies
-- 🌱 I’m currently learning ... Full Stack Web Development alongside DSA
-- 📫 How to reach me ... Email: alkaaviral14@gmail.com
+# Hi, I'm Aviral 👋
 
-<!---
-Aviral1443/Aviral1443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about **Sports** and **Movies**. Currently, I'm diving deep into **Full Stack Web Development** and **Data Structures & Algorithms**.
+
+## About Me
+- 🎯 **Current Goal**: Mastering Full Stack Web Development alongside DSA.
+- 🎬 **Interests**: Sports, Movies.
+- 💻 **Experience**: Web Development.
+- 📱 **Learning**: Starting Android Development.
+
+## Get in Touch
+- 📧 Email: [alkaaviral14@gmail.com](mailto:alkaaviral14@gmail.com)
+
+## Let's Connect
+- [GitHub](https://github.com/Aviral1443)
+
+---
+
+"Curiosity is the compass that leads us to our passion."
